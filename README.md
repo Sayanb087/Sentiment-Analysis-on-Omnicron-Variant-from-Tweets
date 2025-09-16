@@ -1,4 +1,4 @@
-# 💬 Sentiment-Analysis-on-Omnicron-Variant-from-Tweets using NLP
+# 💬 Sentiment-Analysis-on-Omicron-Variant-from-Tweets using NLP
 ## 🌐 Project Overview
 This project is designed to analyze the sentiment expressed in textual data—whether it's positive, negative, or neutral. Sentiment Analysis is a common application of Natural Language Processing (NLP) used in fields like marketing, product analysis, customer support, and public opinion mining.
 * Natural Language Processing (NLP) in machine learning is a field that enables computers to understand, interpret, and generate human language. Essentially, it's about giving machines the ability to communicate with us in a way that feels natural, whether it's through text or speech. 
